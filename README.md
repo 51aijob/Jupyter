@@ -9,3 +9,7 @@ Function get_data_from_file_and_plot is used for extracting data from a file and
 Another function did same thing except collecting data from database directly
 
 Of course, we can use it to plot mse result as well ...
+
+
+2017/12/20
+Use seaborn and pandas, numpy did visual analysis
